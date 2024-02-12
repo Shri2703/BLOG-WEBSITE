@@ -5,6 +5,12 @@ This is a simple blog website created using HTML, CSS, EJS, Node.js, Express.js,
 
  <a href="https://blog-website-kr55.onrender.com"   target="blank"> CLICK HERE!!</a> for demo
 
+ 
+
+Uploading WhatsApp Video 2024-02-10 at 3.30.45 PM.mp4…
+
+
+
 ## Features
 
 - **View Posts**: Users can browse through existing blog posts to read articles.
