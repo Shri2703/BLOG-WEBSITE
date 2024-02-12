@@ -11,9 +11,6 @@ This is a simple blog website created using HTML, CSS, EJS, Node.js, Express.js,
 
 
 
-Uploading WhatsApp Video 2024-02-10 at 3.30.45 PM.mp4…
-
-
 
 ## Features
 
