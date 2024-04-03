@@ -1,5 +1,4 @@
 # Blog Website.
-
 This is a simple blog website created using HTML, CSS, EJS, Node.js, Express.js, and MongoDB. The website allows users to view, create, edit, and delete blog posts.
 
  <a href="https://blog-website-kr55.onrender.com"   target="blank"> CLICK HERE!!</a> for demo .
