@@ -1,7 +1,6 @@
 const express = require('express');
 const mongoose = require('mongoose');
 const methodOverride = require('method-override'); // Require method-override
-
 const app = express();
 
 // MongoDB Atlas connection URI
