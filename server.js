@@ -11,7 +11,6 @@ const options = {
   useNewUrlParser: true,
   useUnifiedTopology: true
 };
-
 // Connect to MongoDB Atlas
 mongoose.connect(uri, options)
   .then(() => {
